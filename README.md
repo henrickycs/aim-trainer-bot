@@ -13,8 +13,8 @@ This Python bot is designed to automate an aim trainer game, allowing the player
 
 Install these libraries from an administrator terminal (windows):
 
-pip install pygame
-pip install pywin32
-pip install keyboard
-pip install pyautogui
-pip install opencv-python
+*pip install pygame
+*pip install pywin32
+*pip install keyboard
+*pip install pyautogui
+*pip install opencv-python
